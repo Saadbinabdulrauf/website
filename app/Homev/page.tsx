@@ -94,7 +94,7 @@ export default function HomePage2 (){
 <div className="bg-gray-100 h-[157] w-[305] pl-16 pt-5">
 <CiCreditCard1 className="h-6 w-6"/>
 <h1 className="text-lg">Unbeatable prices</h1>
-<p className="text-sm">For our materials and quality <br/> you won't find better prices <br/> anywhere</p>
+<p className="text-sm">For our materials and quality <br/> you will not find better prices <br/> anywhere</p>
 </div>
 
 <div className="bg-gray-100 h-[157] w-[305] pl-16 pt-5">
