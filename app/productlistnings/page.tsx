@@ -359,7 +359,7 @@ export default function ProductListning (){
     <div className="container px-5 py-6 mx-auto flex items-center sm:flex-row flex-col ">
       
       <p className="text-sm text-white sm:ml-6 sm:mt-0 mt-4">
-      Copyright @ 2024 by Saad. All Rights Reserved. </p>
+      Copyright @ 2024 by Saad </p>
 
         <div className="ml-auto flex flex-row gap-2 cursor-pointer text-white ">
         <FaSquareFacebook className="h-5 w-5 " />
