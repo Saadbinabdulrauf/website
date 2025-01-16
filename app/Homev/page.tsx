@@ -184,7 +184,7 @@ export default function HomePage2 (){
   className=""
   width={630}
   height={478}
-  src="/Image/Block.jpg"
+  src="/image/Block.jpg"
   alt="Block"
   ></Image>
           </div>
