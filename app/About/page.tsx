@@ -12,9 +12,7 @@ import { IoCheckmarkCircleOutline } from "react-icons/io5";
 import { CiCreditCard1 } from "react-icons/ci";
 import { LuSprout } from "react-icons/lu";
 import { RxCross2 } from "react-icons/rx";
-import { GrFormSubtract } from "react-icons/gr";
-import { IoIosAdd } from "react-icons/io";
-import { PiNumberOneBold } from "react-icons/pi";
+
 
 
 export default function AboutPage (){
@@ -59,7 +57,7 @@ export default function AboutPage (){
 </div>
 
 {/* 1 */}
-<div className=" bg-[#F9F9F9] h-10  grid grid-flow-col justify-center gap-8  pt-2 text-gray-500 cursor-pointer">
+<div className=" bg-[#F9F9F9] h-10  grid grid-flow-col justify-center gap-8 pt-2 text-gray-500 cursor-pointer">
          <div >All products</div>
             <div >Plant pots </div>
             <div>Ceramics</div>
@@ -72,7 +70,7 @@ export default function AboutPage (){
 
 {/* 2 */}
 <div className="flex ml-52 mt-16 pb-5">
-    <h1 className="text-2xl">A brand build on the love of craftmanship, <br/> quality and outstanding customer service</h1>
+    <h1 className="text-2xl">A brand build on the love of craftmanship <br/> quality and outstanding customer service</h1>
     <div>
         <div className="mt-4">
     <button className="lg:mt-2 xl:mt-0 mb-0 flex-shrink-0 inline-flex text-white bg-indigo-500 border-0 py-2 px-6 ml-96    focus:outline-none hover:bg-indigo-600 rounded">
@@ -122,9 +120,9 @@ export default function AboutPage (){
           </div>
 
         <div className="  h-[537] w-[720] ml-2 pt-1 pb-2 pl-10 text-justify">
-          <h1 className="text-3xl  pt-10 pl-1 pb-6" >Our sevice isn't just personal, it's actually <br/> hyper personally exquisite </h1>
-          <p>When we started Avion, the idea was simple. Make high quality furniture <br/> affordable and available for the mass market.</p>
-          <p className="mt-4 mr-9">Handmade, and loveling  creafted furniture and homeware is what we live, <br/> breathe and design so our Chelsea  boutique become the hoybed for the <br/> London interior design community.</p>
+          <h1 className="text-3xl  pt-10 pl-1 pb-6" >Our sevice is not just personal it <br/> is actually  hyper personally exquisite </h1>
+          <p>When we started Avion the idea was simple make high quality furniture <br/> affordable and available for the mass market</p>
+          <p className="mt-4 mr-9">Handmade and loveling  creafted furniture and homeware is what we live <br/> breathe and design so our Chelsea boutique become the hoybed for the <br/> London interior design community</p>
             <div className="mt-44 mr-11">
           <button className="lg:mt-2 xl:mt-0 mb-0 flex-shrink-0 inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded">
             get in touch
@@ -174,7 +172,7 @@ export default function AboutPage (){
 
           <div className="bg-white  text-center h-[320] w-[1273] pt-10  py-auto mt-3 ml-2">
             <h1 className="text-4xl">Join the club and get the benefits</h1>
-            <p className="mt-4 ">Sign up for our newsletter and receive exclusive offers on new <br/> ranges, sales, pop up stores and more </p>
+            <p className="mt-4 ">Sign up for our newsletter and receive exclusive offers on new <br/> ranges sales pop up stores and more </p>
           
           <div className="relative w-40 sm:w-auto xl:mr-4 lg:mr-0 sm:mr-4  flex flex-row gap-1 ml-[40%] mt-20 mb-14">
             

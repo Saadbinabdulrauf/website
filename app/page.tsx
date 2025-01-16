@@ -51,14 +51,14 @@ export default function HomePage (){
         <div className="flex h-[451px] w-[1280px] mt-9 mb-12 ml-8">
 
         <div className="bg-[#2A254B] w-[1280px] ml-4 ">
-          <h1 className="text-3xl text-white pt-10 pl-7 pb-6" >The Furniture brand for the <br/> future, with timeless designs</h1>
+          <h1 className="text-3xl text-white pt-10 pl-7 pb-6" >The Furniture brand for the <br/> future with timeless designs</h1>
 <div className="mt-3">
           <button className="lg:mt-2 xl:mt-0 mb-0 flex-shrink-0 inline-flex text-white bg-indigo-500 border-0 py-2 px-6 ml-7 mt-3  focus:outline-none hover:bg-indigo-600 rounded">
             view collection
           </button>
           </div>
-          <p className="text-bold text-white text-left text-base pt-36 pl-7  ">A new era in eco friendly furniture with Avelon, the French luxury retail brand <br/>
-             with nice fonts,tasteful colors and a beautiful way to display things digitally <br/> using modren web technologies.</p>
+          <p className="text-bold text-white text-left text-base pt-36 pl-7  ">A new era in eco friendly furniture with Avelon the French luxury retail brand <br/>
+             with nice fonts tasteful colors and a beautiful way to display things digitally <br/> using modren web technologies</p>
         </div>
       
           <div className="mr-4 ml-0 ">
@@ -95,7 +95,7 @@ export default function HomePage (){
 <div className="ml-[7%]">
 <CiCreditCard1 className="h-6 w-6"/>
 <h1 className="text-lg">Unbeatable prices</h1>
-<p className="text-sm">For our materials and quality you <br/> won't find better prices anywhere</p>
+<p className="text-sm">For our materials and quality you <br/> will not find better prices anywhere</p>
 </div>
 
 <div className="ml-[8%]">
@@ -221,7 +221,7 @@ export default function HomePage (){
 
           <div className="bg-white  text-center h-[320] w-[1273] pt-10  py-auto mt-3 ml-2">
             <h1 className="text-4xl">Join the club and get the benefits</h1>
-            <p className="mt-4 ">Sign up for our newsletter and receive exclusive offers on new <br/> ranges, sales, pop up stores and more </p>
+            <p className="mt-4 ">Sign up for our newsletter and receive exclusive offers on new <br/> ranges sales pop up stores and more </p>
           
           <div className="relative w-40 sm:w-auto xl:mr-4 lg:mr-0 sm:mr-4  flex flex-row gap-1 ml-[40%] mt-20 mb-14">
             
@@ -246,8 +246,8 @@ export default function HomePage (){
 
         <div className=" h-[524] w-[720] ml-2  pb-2 pl-7 text-justify">
           <h1 className="text-3xl  pt-10 pl-1 pb-6" >From a studio in London to a global brand <br/> with  over 400 outlets </h1>
-          <p>When we started Avion, the idea was simple. Make high quality furniture <br/> affordable and available for the mass market.</p>
-          <p className="mt-4 mr-9">Handmade, and loveling  creafted furniture and homeware is what we live, <br/> breathe and design so our Chelsea  boutique become the hoybed for the <br/> London interior design community.</p>
+          <p>When we started Avion the idea was simple Make high quality furniture <br/> affordable and available for the mass market</p>
+          <p className="mt-4 mr-9">Handmade and loveling  creafted furniture and homeware is what we live <br/> breathe and design so our Chelsea  boutique become the hoybed for the <br/> London interior design community</p>
             <div className="mt-44 mr-11">
           <button className="lg:mt-2 xl:mt-0 mb-0 flex-shrink-0 inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded">
             get in touch
@@ -374,7 +374,7 @@ export default function HomePage (){
     <div className="container px-5 py-6 mx-auto flex items-center sm:flex-row flex-col ">
       
       <p className="text-sm text-white sm:ml-6 sm:mt-0 mt-4">
-        Copyright @ 2024 by Saad. All Rights Reserved.    </p>
+        Copyright @ 2024 by Saad. All Rights Reserved. </p>
 
         <div className="ml-auto flex flex-row gap-2 cursor-pointer text-white ">
         <FaSquareFacebook className="h-5 w-5 " />

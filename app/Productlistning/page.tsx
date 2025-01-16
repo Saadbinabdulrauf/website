@@ -77,8 +77,8 @@ export default function ProductListning (){
     <h1 className="text-3xl mt-16">The Dandy Chair</h1>
     <h1 className="text-2xl mt-4">&250</h1>
     <h1 className=" text-gray-500 mt-8 text-lg">Description</h1>
-    <p className="text-gray-500 mt-3 text-base">A timeless design, with premium materials features as one of our most <br/> popular
-     and iconic pieces. The dandy chais perfect for any stylish <br/> living space with beech legs and lambskin leather upholstery.
+    <p className="text-gray-500 mt-3 text-base">A timeless design with premium materials features as one of our most <br/> popular
+     and iconic pieces The dandy chais perfect for any stylish <br/> living space with beech legs and lambskin leather upholstery
      </p>
      <ul className="list-disc text-gray-500 ml-6 mt-4">
       <li>Premium material</li>
@@ -201,7 +201,7 @@ export default function ProductListning (){
 <div className="ml-[7%]">
 <CiCreditCard1 className="h-6 w-6"/>
 <h1 className="text-lg">Unbeatable prices</h1>
-<p className="text-sm">For our materials and quality you <br/> won't find better prices anywhere</p>
+<p className="text-sm">For our materials and quality you <br/> not find better prices anywhere</p>
 </div>
 
 <div className="ml-[8%]">
@@ -216,7 +216,7 @@ export default function ProductListning (){
 
           <div className="bg-white  text-center h-[320] w-[1273] pt-10  py-auto mt-3 ml-2">
             <h1 className="text-4xl">Join the club and get the benefits</h1>
-            <p className="mt-4 ">Sign up for our newsletter and receive exclusive offers on new <br/> ranges, sales, pop up stores and more </p>
+            <p className="mt-4 ">Sign up for our newsletter and receive exclusive offers on new <br/> ranges sales pop up stores and more </p>
           
           <div className="relative w-40 sm:w-auto xl:mr-4 lg:mr-0 sm:mr-4  flex flex-row gap-1 ml-[40%] mt-20 mb-14">
             
