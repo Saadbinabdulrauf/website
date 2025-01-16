@@ -87,7 +87,7 @@ export default function AboutPage (){
         <div className="bg-[#2A254B] w-[634] h-[473]  ml-2 pl-4 ">
           <h1 className="text-3xl text-white pt-10 pl-7 pb-6" >It started with a small idea</h1>
 
-          <p className="text-bold text-white text-left text-base pt-1 pl-7  ">A global brand with local beginnings, our story begain in a <br/> small studio in South London  in early 2014</p>
+          <p className="text-bold text-white text-left text-base pt-1 pl-7  ">A global brand with local beginnings our story begain in a <br/> small studio in South London  in early 2014</p>
              <div className="mt-56">
           <button className="lg:mt-2 xl:mt-0 mb-0 flex-shrink-0 inline-flex text-white bg-indigo-500 border-0 py-2 px-6 ml-7 mt-3  focus:outline-none hover:bg-indigo-600 rounded">
             view collection
